@@ -38,3 +38,35 @@ The user enters student information.
 Example:
 Enter Student ID: 101
 Enter Name: Rahul
+The student record is then stored in the collection.
+2. View Students
+The application displays all registered students.
+3. Search Student
+The user enters a Student ID.
+Enter Student ID: 101
+
+Student Found:
+Name: Rahul
+4. Update Student
+The user can modify existing student information.
+Enter Student ID: 101
+Enter New Name: Rahul Kumar
+5. Delete Student
+The user enters the Student ID of the student they want to remove.
+Enter Student ID: 101
+
+Student deleted successfully.
+
+
+Use the menu displayed in the console.
+📋 Sample Menu
+===== STUDENT MANAGEMENT SYSTEM =====
+
+1. Add Student
+2. View All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Exit
+
+Enter your choice:
